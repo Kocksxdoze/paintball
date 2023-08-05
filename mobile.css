@@ -1,0 +1,267 @@
+@media only screen and (max-width: 800px) {
+    div {
+        flex-wrap: wrap !important;
+        width: 100% !important;
+    }
+
+    .header {
+        display: none;
+    }
+
+    .row {
+        flex-wrap: wrap !important;
+    }
+
+    .sports {
+        flex-direction: column !important;
+    }
+
+    .shop_products {
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .products {
+        width: auto;
+    }
+
+    .pr {
+        width: 100% !important;
+        margin: 0;
+        padding: 0;
+    }
+
+    img {
+        width: 100%;
+
+    }
+
+    .media ul {
+        flex-direction: column !important;
+    }
+
+    .play_prices {
+        width: 100%;
+        margin: 0;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .doorarena {
+        width: 100%;
+    }
+
+    .website {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+    }
+
+    .carousel {
+        display: none;
+    }
+
+    .navigation {
+        flex-direction: column;
+    }
+
+    .play {
+        margin: 0;
+    }
+
+    .parena {
+        margin-left: 0px;
+        width: 100%;
+    }
+
+    .parena h2 {
+        width: 100%;
+        margin: 0;
+    }
+
+    .gear button {
+        margin-right: 0 !important;
+    }
+
+    .testimonials {
+        margin-left: 10px;
+    }
+
+    .testimonials img {
+        margin-left: 50px;
+    }
+
+    .testimonials p {
+        width: 100%;
+    }
+
+    .gunnnn {
+        width: 30%;
+        margin-right: 55px;
+    }
+
+    .sports {
+        width: 100%;
+    }
+
+    .text_sports h5 {
+        margin-left: 0 !important;
+        width: 100% !important;
+    }
+
+    .text_sports h2 {
+        margin-left: 0;
+    }
+
+    .text_sports p {
+        margin-left: 0;
+    }
+
+    .text_sports img {
+        right: 0;
+    }
+
+    .price_text img {
+        width: 20% !important;
+    }
+
+    .play_prices img {
+        width: 30%;
+    }
+
+    .arenagun {
+        width: 30%;
+    }
+
+    .bg1 {
+        display: none;
+    }
+
+    .swat {
+        display: none;
+    }
+
+    .text_shop img {
+        width: 30%;
+    }
+
+    .logotype {
+        width: 30%;
+        top: 26%;
+    }
+
+    .team_build {
+        margin-top: 0;
+    }
+
+    .team_infob h3 {
+        color: #37281c;
+    }
+
+    .bebroid {
+        width: 30%;
+    }
+
+    .blog {
+        margin-top: 70px;
+    }
+
+    .footer {
+        margin-top: 30px;
+    }
+
+    .footer_img {
+        display: none;
+    }
+
+    .end_info img {
+        width: 100%;
+    }
+
+    .footer_gun {
+        display: none;
+    }
+
+    .end_info {
+        margin-top: 0;
+    }
+
+    .end_main {
+        display: flex;
+        flex-direction: row !important;
+        flex-wrap: nowrap !important;
+        text-align: center;
+    }
+
+    .media ul,
+    li {
+        margin-left: 50px;
+    }
+
+    .media_end {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .info {
+        height: auto;
+    }
+
+    .arenas {
+        flex-direction: column !important;
+    }
+
+    .arenas h3 {
+        font-size: 2rem;
+    }
+
+    .arenas p {
+        font-size: 1rem;
+    }
+
+    .arenas img {
+        width: 13% !important;
+    }
+
+    .indor,
+    .outdoor {
+        margin-top: 50px;
+    }
+
+    .text_arenas {
+        display: none;
+    }
+
+    .images_door {
+        flex-direction: column;
+        gap: 15px;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .burger_menu {
+        display: flex;
+        width: 100%;
+        position: relative;
+    }
+
+    #logo {
+        width: 50% !important;
+    }
+
+
+    .navbar-toggler {
+        position: absolute;
+        right: -30%;
+    }
+
+    .navigation {
+        width: 90% !important;
+        margin-top: 50px;
+    }
+}
